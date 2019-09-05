@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class Multiplication{
+	//main method
 	public static void main (String[] arg){		
 		int number1, number2;
 		String name;
